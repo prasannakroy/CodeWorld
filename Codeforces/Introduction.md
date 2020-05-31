@@ -1,6 +1,6 @@
 <h1>Codeforces</h1>
 
-Codeforces contest and practice questions' solutions with simple codes and explanation.
+Codeforces contest and practice questions' solutions with simple codes and editorials for difficult problems.
 
 [Codeforces](https://codeforces.com/)
 
