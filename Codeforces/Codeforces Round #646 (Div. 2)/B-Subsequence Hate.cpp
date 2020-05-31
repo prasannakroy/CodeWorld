@@ -25,11 +25,9 @@ void solve() {
         s[i] == '0'? c0[i + 1] += 1: c1[i + 1] += 1;
     }
     int mx = 0;
-    for(int i = 0; i < n; i++){
-        for(int j = i; j < n; j++){
-            mx = max(mx, c0[i + 1] + c1[j + 1] - c1[i + 1]);
-            mx = max(mx, c1[i + 1] + c0[j + 1] - c0[i + 1]);
-        }
+    for(int i = 0; i <= n; i++){
+        mx = max(mx, c0[i] + c1[n] - c1[i]);
+        mx = max(mx, c1[i] + c0[n] - c0[i]);
     }
     cout << n - mx << "\n";
 }
