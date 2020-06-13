@@ -1,7 +1,7 @@
 <h1>Codeforces Round #648 (Div. 2)</h1>
 
-*June 7, 2020*
+*June 13, 2020*
 
-[Codeforces Round #648 (Div. 2)](https://codeforces.com/contest/1365)
+[Codeforces Round #649 (Div. 2)](https://codeforces.com/contest/1364)
 
-*My Rank : 3783*
+*My Rank : 4335*
