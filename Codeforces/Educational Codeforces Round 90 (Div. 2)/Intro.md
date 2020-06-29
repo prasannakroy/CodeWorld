@@ -4,4 +4,4 @@
 
 [Educational Codeforces Round 90 (Div. 2)](https://codeforces.com/contest/1373)
 
-*My Rank - 5020*
+*My Rank - 4796*
