@@ -1,4 +1,4 @@
-#Google KickStart 2020 Round A
+# Google KickStart 2020 Round A
 
 [Google KickStart 2020 Round A](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7)
 
