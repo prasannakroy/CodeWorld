@@ -1,4 +1,4 @@
-<h1>Codeforces Round #660 (Div. 2)</h1>
+# Codeforces Round #660 (Div. 2)
 
 *July 30, 2020*
 

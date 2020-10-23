@@ -1,4 +1,4 @@
-<h1>Codeforces Round #661 (Div. 3)</h1>
+# Codeforces Round #661 (Div. 3)
 
 *August 5, 2020*
 

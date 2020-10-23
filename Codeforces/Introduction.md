@@ -1,9 +1,9 @@
-<h1>Codeforces</h1>
+# Codeforces
 
-Codeforces contest and practice questions' solutions with simple codes and editorials for difficult problems.
+> Codeforces contest and practice questions' solutions with simple codes and editorials for difficult problems.
 
 **[Codeforces](https://codeforces.com/)**
 
-<h2>My Profile</h2> 
+## My Profile
 
 **[prasanna2425](https://codeforces.com/profile/prasanna2425)**

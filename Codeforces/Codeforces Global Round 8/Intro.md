@@ -1,4 +1,4 @@
-<h1>Codeforces Global Round</h1>
+# Codeforces Global Round
 
 *June 18, 2020*
 

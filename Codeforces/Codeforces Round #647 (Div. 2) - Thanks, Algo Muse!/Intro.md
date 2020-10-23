@@ -1,4 +1,4 @@
-<h1>Codeforces Round #647 (Div. 2) - Thanks, Algo Muse!</h1>
+# Codeforces Round #647 (Div. 2) - Thanks, Algo Muse!
 
 *June 4, 2020*
 

@@ -1,4 +1,4 @@
-<h1>Codeforces Round #651 (Div. 2)</h1>
+# Codeforces Round #651 (Div. 2)
 
 *June 20, 2020*
 

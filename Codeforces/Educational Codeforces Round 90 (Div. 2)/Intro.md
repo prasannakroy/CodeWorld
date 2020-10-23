@@ -1,4 +1,4 @@
-<h1>Educational Codeforces Round 90 (Div. 2)</h1>
+# Educational Codeforces Round 90 (Div. 2)
 
 *June 25, 2020*
 
