@@ -1,4 +1,4 @@
-<h1>Atcoder Beginner Contest 170</h1>
+# Atcoder Beginner Contest 170
 
 June 14, 2020
 
