@@ -44,12 +44,12 @@ void solve() {
 			dist[u] = dist[v] + 1;
 		}
 	}
-	cout << dist[n] + 1 << "\n";
 	vector<int> res;
 	res.push_back(n);
 	x = n;
 	while (x - 1) res.push_back(x = parent[x]);
 	reverse(span(res));
+	cout << res.size() << '\n';
 	for (auto &i: res) cout << i << " ";
 }
 
